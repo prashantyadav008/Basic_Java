@@ -16,7 +16,6 @@ public class User {
     public int getId() {
         return id;
     }
-
     public void setId(int _id) {
         this.id = _id;
     }
@@ -24,7 +23,6 @@ public class User {
     public String getName() {
         return name;
     }
-
     public void setName(String _name) {
         this.name = _name;
     }
@@ -32,7 +30,6 @@ public class User {
     public int getAge() {
         return age;
     }
-
     public void setAge(int _age) {
         this.age = _age;
     }
@@ -40,7 +37,6 @@ public class User {
     public String getEmail() {
         return email;
     }
-
     public void setEmail(String _email) {
         this.email = _email;
     }
@@ -48,7 +44,6 @@ public class User {
     public String getPassword() {
         return password;
     }
-
     public void setPassword(String _password) {
         this.password = _password;
     }
